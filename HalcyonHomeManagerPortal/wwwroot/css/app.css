@@ -118,3 +118,8 @@ code {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f9fafc+1,e8f6ff+100 */
     background: linear-gradient(to bottom, #f9fafc 1%,#e8f6ff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
+
+
+.privacypol {
+    font: 400 16px / 28px "Proxima Nova", sans-serif;
+}
